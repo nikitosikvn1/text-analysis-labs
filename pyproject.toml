@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "text-analysis-labs"
+version = "0.1.0"
+description = "<3"
+authors = ["Nikita Petrykin <nvnedu2120@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.2"
+notebook = "^7.0.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
