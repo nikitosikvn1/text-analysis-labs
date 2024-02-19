@@ -9,6 +9,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "3.12.2"
 notebook = "^7.0.8"
+nltk = "^3.8.1"
+pandas = "^2.2.0"
 
 
 [build-system]
