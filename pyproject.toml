@@ -17,6 +17,8 @@ seaborn = "^0.13.2"
 scipy = "1.12.0"
 matplotlib = "^3.8.3"
 gensim = "^4.3.2"
+spacy = "^3.7.4"
+textblob = "^0.18.0.post0"
 
 
 [build-system]
